@@ -2,7 +2,3 @@ body {
     background-image: url('../img/background.png') !important;
     background-size: cover !important;
 }
-
-#kc-form-login, .pf-v5-c-login__main-footer-band {
-    display: none;
-}
