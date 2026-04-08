@@ -2,3 +2,18 @@ body {
     background-image: url('../img/background.jpg') !important;
     background-size: cover !important;
 }
+
+#kc-registration-terms-text {
+    background: #edecec;
+    padding: 10px;
+    margin-top: 4px;
+}
+
+#kc-registration-terms-text p {
+    margin-bottom: 5px;
+}
+
+#kc-registration-terms-text li {
+    list-style: inherit;
+    margin-left: 30px;
+}
