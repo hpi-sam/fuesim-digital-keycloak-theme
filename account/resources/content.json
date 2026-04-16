@@ -1,0 +1,10 @@
+[
+  { "label": "personalInfo", "path": "" },
+  { "label": "accountSecurity", "path": "account-security/signing-in" },
+  { "label": "deviceActivity", "path": "account-security/device-activity" },
+  {
+    "label": "linkedAccounts",
+    "path": "account-security/linked-accounts",
+    "isVisible": "isLinkedAccountsEnabled"
+  }
+]
